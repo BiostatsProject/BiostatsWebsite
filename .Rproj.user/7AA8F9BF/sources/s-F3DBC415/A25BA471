@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1834808845",
     "id" : "A25BA471",
-    "lastKnownWriteTime" : 1559227653,
-    "last_content_update" : 1559227653762,
+    "lastKnownWriteTime" : 1559228161,
+    "last_content_update" : 1559228161017,
     "path" : "~/Desktop/BiostatsWebsite/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "7,14",
+        "cursorPosition" : "7,20",
         "scrollLine" : "0"
     },
     "relative_order" : 3,

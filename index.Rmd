@@ -5,4 +5,8 @@ output:
     toc_float: false
 ---
 
+```{r, include=FALSE}
+library(knitr)
+```
+
 Something here
