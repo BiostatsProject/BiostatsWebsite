@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559227584873.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3970945539",
+    "id" : "A746201E",
+    "lastKnownWriteTime" : 1559227596,
+    "last_content_update" : 1559227596895,
+    "path" : "~/Desktop/BiostatsWebsite/example.Rmd",
+    "project_path" : "example.Rmd",
+    "properties" : {
+        "cursorPosition" : "7,14",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

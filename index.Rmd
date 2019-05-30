@@ -1,0 +1,8 @@
+---
+title: "Biostatistics 705"
+output:
+  html_document:
+    toc_float: false
+---
+
+Something here

@@ -1,0 +1,28 @@
+name: Biostatistics 705
+output_dir: '.'
+navbar:
+  title: Biostatistics 705
+  type: inverse
+  left:
+  - text: Home
+    href: index.html
+  - text: Example
+    href: example.html
+  right:
+  - icon: fa-envelope-o
+    href: mailto:liz.turner@duke.edu
+  - icon: fa-github
+    href: https://github.com/BiostatsProject/BiostatsWebsite
+output:
+  html_document:
+    theme: yeti
+    highlight: tango
+    fig_caption: yes
+    toc: yes
+    toc_float:
+      collapsed: no
+      smooth_scroll: yes
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
+
