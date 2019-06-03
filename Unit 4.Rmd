@@ -1,0 +1,45 @@
+---
+title: "Pre-semester Materials"
+output:
+  html_document:
+    toc_float: false
+---
+
+Unit 4 Applied Probability: Bayes Theorem and Diagnostic Characteristics
+
+Unit Learning Goals
+This module will teach you the following about diagnostic characteristics and Bayes theorem: 
+A.	Understand the Bayes theorem.
+B.	To be able to apply rules of probability to real-life examples including diagnostic and screening tests.
+C.	How to correctly calculate:
+1.	Sensitivity
+2.	Specificity
+3.	Positive predictive value (PPV)
+4.	Negative predictive value (NPV)
+
+
+Unit Materials
+Videos: 
+http://tinyurl.com/n6edkbj Dr. Turner’s short overview of key principles in probability, including Bayes theorem
+http://www.youtube.com/watch?v=HxEz4ZHUY5Y: A video on probability trees, including a discussion of joint, conditional and marginal probabilities using an example of a diagnostic test.
+http://www.youtube.com/watch?v=E2pOJwSwWDk: A worked example of Bayes’ theorem.
+http://tinyurl.com/kjwp4t3: Screening test validity (i.e. sensitivity and specificity)
+http://tinyurl.com/mka4453: PPV & NPV and the role of underlying prevalence
+
+Textbooks:
+OpenIntro Statistics
+Medical Statistics
+Essentials of Epidemiology Chapter 16, pp. 425-431
+
+Online resources:
+Materials for Unit Learning Goal A 
+
+
+Test-Yourself Resources:
+Suggested Questions from OpenIntro:
+Normal distribution: 3.1, 3.3, 3.7, 3.13, 3.15
+Evaluation the normal approximation: 3.17
+Binomial distribution: 3.25, 3.27, 3.29
+
+
+Quiz 

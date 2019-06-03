@@ -1,13 +1,21 @@
-name: Biostatistics 705
+name: Biostatistics 705 
 output_dir: '.'
 navbar:
-  title: Biostatistics 705
+  title: Biostatistics 705 
   type: inverse
   left:
   - text: Home
     href: index.html
-  - text: Example
+  - text: example
     href: example.html
+  - text: Unit 1
+    href: Unit 1.html
+  - text: Unit 2
+    href: Unit 2.html
+  - text: Unit 3
+    href: Unit 3.html
+  - text: Unit 4
+    href: Unit 4.html
   right:
   - icon: fa-envelope-o
     href: mailto:liz.turner@duke.edu

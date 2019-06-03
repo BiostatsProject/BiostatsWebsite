@@ -1,0 +1,40 @@
+---
+title: "Unit 3"
+output:
+  html_document:
+    toc_float: false
+---
+
+Unit 3 Basics of Probability
+
+Unit Learning Goals
+This module will teach you the following about probability: 
+A.	Basic laws of probability
+B.	Definition of probability
+•	How to correctly apply the definition of the following basic rules of probability:
+o	Complement (probability of not A).
+o	Union (probability of A or B).
+o	Intersection (probability of A and B).
+o	Conditional probabilities (probability of A given B).
+C.	To be able to apply rules of probability to real-life examples.
+
+Unit Materials
+Videos: 
+http://tinyurl.com/n6edkbj Dr. Turner’s short overview of key principles in probability, including Bayes theorem
+http://tinyurl.com/otf85qv: Dr. Turner’s short overview of key principles of odds using the same
+example of breast cancer and gender.
+
+Textbook:
+OpenIntro Statistics
+
+Online resources:
+Materials for Unit Learning Goals A and B 
+
+
+Test-Yourself Resources:
+Suggested Questions from OpenIntro:
+Defining probability: 2.1, 2.5, 2.7, 2.9
+Conditional probability: 2.17, 2.21, 2.23 (this is like the example in one of the videos- try to answer this without the video), 2.25
+
+
+Quiz 
